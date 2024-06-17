@@ -1,7 +1,7 @@
 //Author: Kimani Mukundi
 //Reg No: BSCIT-01-0051/2024
 //Even or Odd number checker
-//Description: To determine whether a person qualifies for a discount
+//Description: To determine whether a number is even or odd
 
 
 #include <stdio.h>
